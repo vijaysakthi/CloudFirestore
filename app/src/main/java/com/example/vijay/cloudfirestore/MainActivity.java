@@ -58,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+//Fetch User Detail
 
     private void fetchUser() {
         final String Mobile = fetchmobile.getText().toString();
@@ -86,7 +87,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-//Save Detail
+
+//Save User Details
     private void saveDetails() {
 
         String Name = name_et.getText().toString();
