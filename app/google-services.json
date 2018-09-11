@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "416432770516",
+    "firebase_url": "https://savefetchdatafirebasedb.firebaseio.com",
+    "project_id": "savefetchdatafirebasedb",
+    "storage_bucket": "savefetchdatafirebasedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416432770516:android:0358c7b0adc574bc",
+        "android_client_info": {
+          "package_name": "com.example.vijay.cloudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416432770516-tcr1g1pfme6o95rp6vo1tufl9v1ofr29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vijay.cloudfirestore",
+            "certificate_hash": "61e1116b04a54fe3be9b23dd9768b0c36237efcf"
+          }
+        },
+        {
+          "client_id": "416432770516-jar725fqchjbnac5vba0lslfur51drgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDUVy4zlbTfbF_iHU8hybO5om4S88M5Ag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416432770516-jar725fqchjbnac5vba0lslfur51drgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416432770516:android:84e5a29dcab0ccce",
+        "android_client_info": {
+          "package_name": "com.example.vijay.imageuploadfetchfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416432770516-25mafjc8a07igbmhgqvav5d4slo1gfu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vijay.imageuploadfetchfirebase",
+            "certificate_hash": "61e1116b04a54fe3be9b23dd9768b0c36237efcf"
+          }
+        },
+        {
+          "client_id": "416432770516-jar725fqchjbnac5vba0lslfur51drgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDUVy4zlbTfbF_iHU8hybO5om4S88M5Ag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416432770516-jar725fqchjbnac5vba0lslfur51drgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416432770516:android:503d345f0bb0e563",
+        "android_client_info": {
+          "package_name": "com.example.vijay.savefetchdatafirebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416432770516-oif2o6tla6jocmt1dj18i4pcres4ndfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vijay.savefetchdatafirebasedb",
+            "certificate_hash": "61e1116b04a54fe3be9b23dd9768b0c36237efcf"
+          }
+        },
+        {
+          "client_id": "416432770516-jar725fqchjbnac5vba0lslfur51drgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDUVy4zlbTfbF_iHU8hybO5om4S88M5Ag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416432770516-jar725fqchjbnac5vba0lslfur51drgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
