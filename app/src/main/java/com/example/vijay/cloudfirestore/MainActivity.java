@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-//Save Details
+//Save Detail
     private void saveDetails() {
 
         String Name = name_et.getText().toString();
